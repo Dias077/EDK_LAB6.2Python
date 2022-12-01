@@ -1,1 +1,3 @@
-# EDK_LAB6.2Python
+﻿# EDK_LAB6.2Python
+
+![Screenshot](press.png)
